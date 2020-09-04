@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=SamuelBagattin)](https://github.com/SamuelBagattin)
-[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=SamuelBagattin)](https://github.com/SamuelBagattin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBagattin)](https://github.com/SamuelBagattin)
 <!--
 **SamuelBagattin/SamuelBagattin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
