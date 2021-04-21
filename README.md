@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Kubernetes**, **GRPC**, **Elixir**
 - 👯 I’m looking to collaborate on projects hosted on the cloud !
 - 💬 Ask me about anything 👌
-- 📫 How to reach me: https://www.linkedin.com/in/samuel-bagattin/
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/samuel-bagattin/)
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SamuelBagattin"/>
