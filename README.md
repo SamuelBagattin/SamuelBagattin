@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **Kubernetes**, **C#**, **Golang**, **Terraform**, **AWS**
-- ✅ Certifications : **CKA**, **Terraform Associate**, **AWS Developer Associate**
+- ✅ Certifications : **CKA**, **CKAD**, **Terraform Associate**, **AWS Developer Associate**
 - 👯 I’m looking to collaborate on projects hosted on the cloud !
 - 💬 Ask me about anything 👌
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/samuel-bagattin/)
